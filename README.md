@@ -2,6 +2,7 @@
 
 ## 🌀 about me
 just a chill guy who messes around with code whenever i feel like it.
+<br/><br/>
 
 ## 🔗 links
 <a href="https://ko-fi.com/J3J51F8N97">
