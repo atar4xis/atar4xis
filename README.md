@@ -1,9 +1,11 @@
 ![Ataraxis](banner.png)
 
 ## 🌀 about me
+<a href="https://ko-fi.com/J3J51F8N97">
+  <img align="right" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/>
+</a>
 just a chill guy who messes around with code whenever i feel like it.
+<br/><br/>
 
 ## 🔗 links
-[![website](https://img.shields.io/badge/website-ataraxis.codes-006acc?style=flat)](https://ataraxis.codes/)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J51F8N97)
+<a href="https://ataraxis.codes/"><img src="https://img.shields.io/badge/website-ataraxis.codes-006acc?style=flat" alt="website"/></a>
