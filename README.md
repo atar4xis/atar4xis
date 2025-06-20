@@ -1,3 +1,5 @@
+## Ataraxis
+
 ![Ataraxis](banner.png)
 
 just a chill guy who codes
